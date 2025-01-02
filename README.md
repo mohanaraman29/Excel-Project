@@ -83,6 +83,7 @@
 
 # BANK LOAN REPORT ( PROBLEM STATEMENT )
 
+![summary dashboard](https://github.com/user-attachments/assets/281b5751-03d0-42a8-a9f3-b90de939349e)
 
 
 # DASHBOARD 1: SUMMARY
