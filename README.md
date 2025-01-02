@@ -147,7 +147,7 @@
 ### Bad Loan Total Received Amount:
 #### Tracking the total amount received from borrowers for 'Bad Loans,' which includes all payments made on loans with a loan status of 'Charged Off.'
 
-
+![overview dashboard](https://github.com/user-attachments/assets/89a68cc0-ade6-4946-a8e4-8ce0bb0d6d5d)
 
 
 # DASHBOARD 2: OVERVIEW
