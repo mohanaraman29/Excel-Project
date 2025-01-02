@@ -211,6 +211,7 @@
 
 #### Objective: This tree map will display loan metrics categorized by different home ownership statuses, allowing for a hierarchical view of how home ownership impacts loan applications and disbursements.
 
-
+# Conclusion 
+The dashboard helped the business make strategic decisions related to the Good Loan Application, Bad Loan Applications and Overall Toatal Loan Application by the Customers.
 
 
