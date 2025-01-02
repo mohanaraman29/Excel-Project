@@ -79,7 +79,7 @@
 - #### Instalment
 - #### Interest Rate
 - #### Loan Amount
-- 
+  
 
 # BANK LOAN REPORT ( PROBLEM STATEMENT )
 
