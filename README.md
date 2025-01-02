@@ -4,28 +4,28 @@
 
 ## Objective 
 
-Bank loans are a crucial financial tool that enables individuals and businesses to achieve their goals and manage financial needs. However, it's essential for borrowers to understand the terms, costs, and responsibilities associated with loans to make informed financial decisions.
+#### Bank loans are a crucial financial tool that enables individuals and businesses to achieve their goals and manage financial needs. However, it's essential for borrowers to understand the terms, costs, and responsibilities associated with loans to make informed financial decisions.
 
 ## Tools and Techniques used 
 
-- Excel : Used to create interactive dashboards and present data insights.
-- Pivot Table : Applied for creating custom Formula calculations to analyze business performance.
-- Data Visualization: Employed various chart types (bar, line, and pie charts) to make the insights easy to understand.
+- #### Excel : Used to create interactive dashboards and present data insights.
+- #### Pivot Table : Applied for creating custom Formula calculations to analyze business performance.
+- #### Data Visualization: Employed various chart types (bar, line, and pie charts) to make the insights easy to understand.
 
 ## Process of Granting a Loan
 
-- Loan Application
-- Application Review
-- Identity Verification
-- Credit Check
-- Income Verification
-- Debt-to-Income Ratio 
-- Employment Verification
-- Collateral Assessment 
-- Risk Assessment
-- Loan Agreement 
-- Repayment
-- Ongoing Monitoring
+- #### Loan Application
+- #### Application Review
+- #### Identity Verification
+- #### Credit Check
+- #### Income Verification
+- #### Debt-to-Income Ratio 
+- #### Employment Verification
+- #### Collateral Assessment 
+- #### Risk Assessment
+- #### Loan Agreement 
+- #### Repayment
+- #### Ongoing Monitoring
 
 ## Reasons for Analysing Bank Loan Data
 
@@ -47,7 +47,8 @@ Banks are subject to regulatory requirements that mandate the collection and rep
 #### Customer Insights:
 Analysing loan data provides insights into customer behaviour, preferences, and needs. Banks can use these insights to tailor loan products and marketing strategies to specific customer segments.
 
-#### Profitability Analysis:  Banks assess the profitability of their loan portfolios by analysing data related to interest income, loan origination costs, default rates, and collection efforts.
+#### Profitability Analysis:  
+Banks assess the profitability of their loan portfolios by analysing data related to interest income, loan origination costs, default rates, and collection efforts.
 
 #### Market Research:
 Data analysis helps banks understand market trends, competitive landscape, and customer demand. This information guides product development and market expansion strategies.
