@@ -158,8 +158,7 @@
 #### X-Axis: Month (based on 'Issue Date')
 #### Y-Axis: Metrics' Values
 
-#### Objective: This line chart will showcase how 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received' vary over time, allowing us to identify 
-#### seasonality and long-term trends in lending activities.
+#### Objective: This line chart will showcase how 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received' vary over time, allowing us to identify seasonality and long-term trends in lending activities.
 
 
 ### 2. Regional Analysis by State (Filled Map):
